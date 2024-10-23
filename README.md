@@ -20,7 +20,7 @@
   <br/><br/><br/><br/><br/><br/><br/>
 </p>
 
-
+<!--
 ### pin
 <p align="left">
   <a href="https://github.com/suhwan22/baekjoon">
@@ -29,3 +29,4 @@
   <!-- resource: (https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md) -->
   <br/><br/><br/><br/><br/><br/><br/>
 </p>
+-->

@@ -17,7 +17,6 @@
     <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnghkswkd123" />
   </a>
   <!-- resource: (https://github.com/mazassumnida/mazassumnida) -->
-  <br/><br/><br/><br/><br/><br/><br/>
 </p>
 
 <!--

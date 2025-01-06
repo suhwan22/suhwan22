@@ -1,3 +1,29 @@
+<h1 align="center">🌟suhwan22 github🌟</h1>
+<h4 align="left">
+I am a software developer in the making, constantly striving to enhance my skills and broaden my knowledge.</h4>
+
+## 🌟 About Me
+- **Name**: [Your Name]
+- **Education**: Electrical and Information Engineering graduate
+- **Goal**: To become a skilled and impactful software developer
+
+## 💡 Interests
+MSA, backend, algorithm, 
+
+## 🛠️ Tech Stack
+C, C++, Java, Typescript, Spring, SpringBoot, NestJS, OAuth2.0, REST, Postgres, Docker, Vim, IntelliJ
+
+## 📬 Contact
+- **Email**: ksuhwan22@gmail.com
+- **Notion**: url
+
+## 🎨 Other Interests
+- I enjoy solving algorithm problems and make it a point to solve at least one problem every day.
+- As a hobby, I love playing chess. It helps me sharpen my strategic thinking!
+- climbing
+
+Feel free to check out my repositories and connect with me!
+
 ### Github
 
 <p align="left">

@@ -1,14 +1,36 @@
-<h1 align="center">🌟suhwan22 github🌟</h1>
+<div style="margin-bottom:-100px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=25&pause=1000&color=A981DB&background=FFFFFF00&width=435&lines=suhwan22's+github" alt="Typing SVG" />
+  </a>
+</div>
+
+
 <h4 align="left">
 I am a software developer in the making, constantly striving to enhance my skills and broaden my knowledge.</h4>
+Name [Your Name] <br/>
+Education Electrical and Information Engineering graduate <br/>
+Interests MSA, backend, algorithm, <br/>
 
-## 🌟 About Me
-- **Name**: [Your Name]
-- **Education**: Electrical and Information Engineering graduate
-- **Goal**: To become a skilled and impactful software developer
+<details>
+  <summary>algorithm</summary>
+  algorithm<br/>
+</details>
 
-## 💡 Interests
-MSA, backend, algorithm, 
+<details>
+  <summary>42cursus</summary>
+  42<br/>
+</details>
+
+<details>
+  <summary>project</summary>
+  project<br/>
+</details>
+
+<details>
+  <summary>other</summary>
+  other<br/>
+</details>
+
 
 ## 🛠️ Tech Stack
 C, C++, Java, Typescript, Spring, SpringBoot, NestJS, OAuth2.0, REST, Postgres, Docker, Vim, IntelliJ
@@ -17,40 +39,4 @@ C, C++, Java, Typescript, Spring, SpringBoot, NestJS, OAuth2.0, REST, Postgres, 
 - **Email**: ksuhwan22@gmail.com
 - **Notion**: url
 
-## 🎨 Other Interests
-- I enjoy solving algorithm problems and make it a point to solve at least one problem every day.
-- As a hobby, I love playing chess. It helps me sharpen my strategic thinking!
-- climbing
 
-Feel free to check out my repositories and connect with me!
-
-### Github
-
-<p align="left">
-  <a href="https://github.com/suhwan22">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=suhwan22&show_icons=true&hide=stars&theme=catppuccin_latte" />
-  </a>
-  <a href="https://github.com/suhwan22">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhwan22&layout=compact" />
-  </a>
-  <!-- resource: (https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md) -->
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-</p>
-
-### Baekjoon
-<p align="left">
-  <a href="https://solved.ac/profile/tnghkswkd123">
-    <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnghkswkd123" />
-  </a>
-  <!-- resource: (https://github.com/mazassumnida/mazassumnida) -->
-</p>
-
-<!--
-### pin
-<p align="left">
-  <a href="https://github.com/suhwan22/baekjoon">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhwan22&show_owner=true&repo=baekjoon" />
-  </a>
-  <!-- resource: (https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md) -->
-  <br/><br/><br/><br/><br/><br/><br/>
-</p>

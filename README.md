@@ -48,8 +48,6 @@ Interests MSA, backend, algorithm, <br/>
 <h2 align="center">✉️ Contact</h2>
 
 <p align="center">
-  <!--
   <a href="https://www.notion.so/Home-61191cd0e7884fa092c7c694bbcfa062" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=black&color=white"/></a>
-  -->
   <a href="mailto:ksuhwan22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&color=EA4335"/></a>
 </p>
